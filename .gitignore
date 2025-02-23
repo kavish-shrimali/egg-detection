@@ -1,2 +1,8 @@
-./Egg_det
-./__pycache__
+# Virtual Environment
+Egg_det/
+
+# Python
+__pycache__/
+
+# logs
+logs/
